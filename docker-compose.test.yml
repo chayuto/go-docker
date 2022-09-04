@@ -4,4 +4,4 @@ services:
     build:
       dockerfile: Dockerfile
       context: .
-    command: /wombato
+    command: go test
