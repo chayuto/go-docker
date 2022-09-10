@@ -2,6 +2,8 @@
 
 # manual build
 
+ go mod init main
+ 
 ```
 go build
 ```
