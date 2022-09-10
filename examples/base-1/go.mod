@@ -1,7 +1,3 @@
-module wombato
+module main
 
-go 1.16
-
-require (
-
-)
+go 1.19
